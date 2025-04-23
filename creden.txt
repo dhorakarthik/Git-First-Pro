@@ -1,2 +1,0 @@
-username = karthik
-pass    = goud123
